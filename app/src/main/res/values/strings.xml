@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula14</string>
+    <string name="activity_a" />
+    <string name="on_restart" />
+    <string name="btn_start_b_label" />
+    <string name="activity_a_label" />
+    <string name="btn_start_c_label" />
+    <string name="btn_finish_a_label" />
+    <string name="btn_start_dialog_label" />
+    <string name="lifecycle_method_list" />
+    <string name="activity_status" />
+</resources>
